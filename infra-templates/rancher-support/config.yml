@@ -1,0 +1,7 @@
+name: Rancher Support
+description: |
+  Rancher Support
+version: dev
+category: Framework
+labels:
+  io.rancher.certified: rancher
